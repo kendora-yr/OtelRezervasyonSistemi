@@ -1,0 +1,101 @@
+C:\Users\alkaplan\Desktop\OtelRezervasyonSistemi\OtelRezervasyonSistemi\bin\Debug\OtelRezervasyonSistemi.exe.config
+C:\Users\alkaplan\Desktop\OtelRezervasyonSistemi\OtelRezervasyonSistemi\bin\Debug\OtelRezervasyonSistemi.exe
+C:\Users\alkaplan\Desktop\OtelRezervasyonSistemi\OtelRezervasyonSistemi\bin\Debug\OtelRezervasyonSistemi.pdb
+C:\Users\alkaplan\Desktop\OtelRezervasyonSistemi\OtelRezervasyonSistemi\obj\Debug\OtelRezervasyonSistemi.csprojAssemblyReference.cache
+C:\Users\alkaplan\Desktop\OtelRezervasyonSistemi\OtelRezervasyonSistemi\obj\Debug\OtelRezervasyonSistemi.Properties.Resources.resources
+C:\Users\alkaplan\Desktop\OtelRezervasyonSistemi\OtelRezervasyonSistemi\obj\Debug\OtelRezervasyonSistemi.csproj.GenerateResource.cache
+C:\Users\alkaplan\Desktop\OtelRezervasyonSistemi\OtelRezervasyonSistemi\obj\Debug\OtelRezervasyonSistemi.csproj.CoreCompileInputs.cache
+C:\Users\alkaplan\Desktop\OtelRezervasyonSistemi\OtelRezervasyonSistemi\obj\Debug\OtelRezervasyonSistemi.exe
+C:\Users\alkaplan\Desktop\OtelRezervasyonSistemi\OtelRezervasyonSistemi\obj\Debug\OtelRezervasyonSistemi.pdb
+C:\Users\alkaplan\Desktop\OtelRezervasyonSistemi\OtelRezervasyonSistemi\obj\Debug\OtelRezervasyonSistemi.Formlar.frmAnaGiris.resources
+C:\Users\alkaplan\Desktop\OtelRezervasyonSistemi\OtelRezervasyonSistemi\obj\Debug\OtelRezervasyonSistemi.Formlar.frmOtelIslemleri.resources
+C:\Users\filiz\Desktop\OtelRezervasyonSistemi\OtelRezervasyonSistemi\bin\Debug\OtelRezervasyonSistemi.exe.config
+C:\Users\filiz\Desktop\OtelRezervasyonSistemi\OtelRezervasyonSistemi\bin\Debug\OtelRezervasyonSistemi.exe
+C:\Users\filiz\Desktop\OtelRezervasyonSistemi\OtelRezervasyonSistemi\bin\Debug\OtelRezervasyonSistemi.pdb
+C:\Users\filiz\Desktop\OtelRezervasyonSistemi\OtelRezervasyonSistemi\obj\Debug\OtelRezervasyonSistemi.Formlar.frmAnaGiris.resources
+C:\Users\filiz\Desktop\OtelRezervasyonSistemi\OtelRezervasyonSistemi\obj\Debug\OtelRezervasyonSistemi.Formlar.frmOtelIslemleri.resources
+C:\Users\filiz\Desktop\OtelRezervasyonSistemi\OtelRezervasyonSistemi\obj\Debug\OtelRezervasyonSistemi.Properties.Resources.resources
+C:\Users\filiz\Desktop\OtelRezervasyonSistemi\OtelRezervasyonSistemi\obj\Debug\OtelRezervasyonSistemi.csproj.GenerateResource.cache
+C:\Users\filiz\Desktop\OtelRezervasyonSistemi\OtelRezervasyonSistemi\obj\Debug\OtelRezervasyonSistemi.csproj.CoreCompileInputs.cache
+C:\Users\filiz\Desktop\OtelRezervasyonSistemi\OtelRezervasyonSistemi\obj\Debug\OtelRezervasyonSistemi.exe
+C:\Users\filiz\Desktop\OtelRezervasyonSistemi\OtelRezervasyonSistemi\obj\Debug\OtelRezervasyonSistemi.pdb
+C:\Users\hp\OneDrive\Masaüstü\VeriYapılarıProje\cerenSON\OtelRezervasyonSistemi\OtelRezervasyonSistemi\bin\Debug\OtelRezervasyonSistemi.exe.config
+C:\Users\hp\OneDrive\Masaüstü\VeriYapılarıProje\cerenSON\OtelRezervasyonSistemi\OtelRezervasyonSistemi\bin\Debug\OtelRezervasyonSistemi.exe
+C:\Users\hp\OneDrive\Masaüstü\VeriYapılarıProje\cerenSON\OtelRezervasyonSistemi\OtelRezervasyonSistemi\bin\Debug\OtelRezervasyonSistemi.pdb
+C:\Users\hp\OneDrive\Masaüstü\VeriYapılarıProje\cerenSON\OtelRezervasyonSistemi\OtelRezervasyonSistemi\obj\Debug\OtelRezervasyonSistemi.csprojAssemblyReference.cache
+C:\Users\hp\OneDrive\Masaüstü\VeriYapılarıProje\cerenSON\OtelRezervasyonSistemi\OtelRezervasyonSistemi\obj\Debug\OtelRezervasyonSistemi.Formlar.frmAnaGiris.resources
+C:\Users\hp\OneDrive\Masaüstü\VeriYapılarıProje\cerenSON\OtelRezervasyonSistemi\OtelRezervasyonSistemi\obj\Debug\OtelRezervasyonSistemi.Formlar.frmOtelIslemleri.resources
+C:\Users\hp\OneDrive\Masaüstü\VeriYapılarıProje\cerenSON\OtelRezervasyonSistemi\OtelRezervasyonSistemi\obj\Debug\OtelRezervasyonSistemi.Properties.Resources.resources
+C:\Users\hp\OneDrive\Masaüstü\VeriYapılarıProje\cerenSON\OtelRezervasyonSistemi\OtelRezervasyonSistemi\obj\Debug\OtelRezervasyonSistemi.csproj.GenerateResource.cache
+C:\Users\hp\OneDrive\Masaüstü\VeriYapılarıProje\cerenSON\OtelRezervasyonSistemi\OtelRezervasyonSistemi\obj\Debug\OtelRezervasyonSistemi.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Masaüstü\VeriYapılarıProje\cerenSON\OtelRezervasyonSistemi\OtelRezervasyonSistemi\obj\Debug\OtelRezervasyonSistemi.exe
+C:\Users\hp\OneDrive\Masaüstü\VeriYapılarıProje\cerenSON\OtelRezervasyonSistemi\OtelRezervasyonSistemi\obj\Debug\OtelRezervasyonSistemi.pdb
+C:\Users\filiz\Desktop\Yeni klasör (4)\OtelRezervasyonSistemi\OtelRezervasyonSistemi\bin\Debug\OtelRezervasyonSistemi.exe.config
+C:\Users\filiz\Desktop\Yeni klasör (4)\OtelRezervasyonSistemi\OtelRezervasyonSistemi\bin\Debug\OtelRezervasyonSistemi.exe
+C:\Users\filiz\Desktop\Yeni klasör (4)\OtelRezervasyonSistemi\OtelRezervasyonSistemi\bin\Debug\OtelRezervasyonSistemi.pdb
+C:\Users\filiz\Desktop\Yeni klasör (4)\OtelRezervasyonSistemi\OtelRezervasyonSistemi\obj\Debug\OtelRezervasyonSistemi.csproj.AssemblyReference.cache
+C:\Users\filiz\Desktop\Yeni klasör (4)\OtelRezervasyonSistemi\OtelRezervasyonSistemi\obj\Debug\OtelRezervasyonSistemi.Formlar.frmAnaGiris.resources
+C:\Users\filiz\Desktop\Yeni klasör (4)\OtelRezervasyonSistemi\OtelRezervasyonSistemi\obj\Debug\OtelRezervasyonSistemi.Formlar.frmOtelIslemleri.resources
+C:\Users\filiz\Desktop\Yeni klasör (4)\OtelRezervasyonSistemi\OtelRezervasyonSistemi\obj\Debug\OtelRezervasyonSistemi.Properties.Resources.resources
+C:\Users\filiz\Desktop\Yeni klasör (4)\OtelRezervasyonSistemi\OtelRezervasyonSistemi\obj\Debug\OtelRezervasyonSistemi.csproj.GenerateResource.cache
+C:\Users\filiz\Desktop\Yeni klasör (4)\OtelRezervasyonSistemi\OtelRezervasyonSistemi\obj\Debug\OtelRezervasyonSistemi.csproj.CoreCompileInputs.cache
+C:\Users\filiz\Desktop\Yeni klasör (4)\OtelRezervasyonSistemi\OtelRezervasyonSistemi\obj\Debug\OtelRezervasyonSistemi.exe
+C:\Users\filiz\Desktop\Yeni klasör (4)\OtelRezervasyonSistemi\OtelRezervasyonSistemi\obj\Debug\OtelRezervasyonSistemi.pdb
+C:\Users\hp\OneDrive\Masaüstü\VeriYapılarıProje\ensonhal\OtelRezervasyonSistemi\OtelRezervasyonSistemi\bin\Debug\OtelRezervasyonSistemi.exe.config
+C:\Users\hp\OneDrive\Masaüstü\VeriYapılarıProje\ensonhal\OtelRezervasyonSistemi\OtelRezervasyonSistemi\bin\Debug\OtelRezervasyonSistemi.exe
+C:\Users\hp\OneDrive\Masaüstü\VeriYapılarıProje\ensonhal\OtelRezervasyonSistemi\OtelRezervasyonSistemi\bin\Debug\OtelRezervasyonSistemi.pdb
+C:\Users\hp\OneDrive\Masaüstü\VeriYapılarıProje\ensonhal\OtelRezervasyonSistemi\OtelRezervasyonSistemi\obj\Debug\OtelRezervasyonSistemi.csprojAssemblyReference.cache
+C:\Users\hp\OneDrive\Masaüstü\VeriYapılarıProje\ensonhal\OtelRezervasyonSistemi\OtelRezervasyonSistemi\obj\Debug\OtelRezervasyonSistemi.Formlar.frmAnaGiris.resources
+C:\Users\hp\OneDrive\Masaüstü\VeriYapılarıProje\ensonhal\OtelRezervasyonSistemi\OtelRezervasyonSistemi\obj\Debug\OtelRezervasyonSistemi.Formlar.frmOtelIslemleri.resources
+C:\Users\hp\OneDrive\Masaüstü\VeriYapılarıProje\ensonhal\OtelRezervasyonSistemi\OtelRezervasyonSistemi\obj\Debug\OtelRezervasyonSistemi.Properties.Resources.resources
+C:\Users\hp\OneDrive\Masaüstü\VeriYapılarıProje\ensonhal\OtelRezervasyonSistemi\OtelRezervasyonSistemi\obj\Debug\OtelRezervasyonSistemi.csproj.GenerateResource.cache
+C:\Users\hp\OneDrive\Masaüstü\VeriYapılarıProje\ensonhal\OtelRezervasyonSistemi\OtelRezervasyonSistemi\obj\Debug\OtelRezervasyonSistemi.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Masaüstü\VeriYapılarıProje\ensonhal\OtelRezervasyonSistemi\OtelRezervasyonSistemi\obj\Debug\OtelRezervasyonSistemi.exe
+C:\Users\hp\OneDrive\Masaüstü\VeriYapılarıProje\ensonhal\OtelRezervasyonSistemi\OtelRezervasyonSistemi\obj\Debug\OtelRezervasyonSistemi.pdb
+C:\Users\hp\OneDrive\Masaüstü\VeriYapılarıProje\ensonhal\OtelRezervasyonSistemi\OtelRezervasyonSistemi\obj\Debug\OtelRezervasyonSistemi.Formlar.frmMusteriIslemleri.resources
+C:\Users\filiz\Desktop\Yeni klasör (2)\OtelRezervasyonSistemi\OtelRezervasyonSistemi\bin\Debug\OtelRezervasyonSistemi.exe.config
+C:\Users\filiz\Desktop\Yeni klasör (2)\OtelRezervasyonSistemi\OtelRezervasyonSistemi\bin\Debug\OtelRezervasyonSistemi.exe
+C:\Users\filiz\Desktop\Yeni klasör (2)\OtelRezervasyonSistemi\OtelRezervasyonSistemi\bin\Debug\OtelRezervasyonSistemi.pdb
+C:\Users\filiz\Desktop\Yeni klasör (2)\OtelRezervasyonSistemi\OtelRezervasyonSistemi\obj\Debug\OtelRezervasyonSistemi.csproj.AssemblyReference.cache
+C:\Users\filiz\Desktop\Yeni klasör (2)\OtelRezervasyonSistemi\OtelRezervasyonSistemi\obj\Debug\OtelRezervasyonSistemi.Formlar.frmAnaGiris.resources
+C:\Users\filiz\Desktop\Yeni klasör (2)\OtelRezervasyonSistemi\OtelRezervasyonSistemi\obj\Debug\OtelRezervasyonSistemi.Formlar.frmMusteriIslemleri.resources
+C:\Users\filiz\Desktop\Yeni klasör (2)\OtelRezervasyonSistemi\OtelRezervasyonSistemi\obj\Debug\OtelRezervasyonSistemi.Formlar.frmOtelIslemleri.resources
+C:\Users\filiz\Desktop\Yeni klasör (2)\OtelRezervasyonSistemi\OtelRezervasyonSistemi\obj\Debug\OtelRezervasyonSistemi.Properties.Resources.resources
+C:\Users\filiz\Desktop\Yeni klasör (2)\OtelRezervasyonSistemi\OtelRezervasyonSistemi\obj\Debug\OtelRezervasyonSistemi.csproj.GenerateResource.cache
+C:\Users\filiz\Desktop\Yeni klasör (2)\OtelRezervasyonSistemi\OtelRezervasyonSistemi\obj\Debug\OtelRezervasyonSistemi.csproj.CoreCompileInputs.cache
+C:\Users\filiz\Desktop\Yeni klasör (2)\OtelRezervasyonSistemi\OtelRezervasyonSistemi\obj\Debug\OtelRezervasyonSistemi.exe
+C:\Users\filiz\Desktop\Yeni klasör (2)\OtelRezervasyonSistemi\OtelRezervasyonSistemi\obj\Debug\OtelRezervasyonSistemi.pdb
+C:\Users\alkaplan\Desktop\şeyma\OtelRezervasyonSistemi\OtelRezervasyonSistemi\obj\Debug\OtelRezervasyonSistemi.csprojAssemblyReference.cache
+C:\Users\alkaplan\Desktop\şeyma\OtelRezervasyonSistemi\OtelRezervasyonSistemi\obj\Debug\OtelRezervasyonSistemi.Formlar.frmAnaGiris.resources
+C:\Users\alkaplan\Desktop\şeyma\OtelRezervasyonSistemi\OtelRezervasyonSistemi\obj\Debug\OtelRezervasyonSistemi.Formlar.frmOtelIslemleri.resources
+C:\Users\alkaplan\Desktop\şeyma\OtelRezervasyonSistemi\OtelRezervasyonSistemi\obj\Debug\OtelRezervasyonSistemi.Properties.Resources.resources
+C:\Users\alkaplan\Desktop\şeyma\OtelRezervasyonSistemi\OtelRezervasyonSistemi\obj\Debug\OtelRezervasyonSistemi.csproj.GenerateResource.cache
+C:\Users\alkaplan\Desktop\şeyma\OtelRezervasyonSistemi\OtelRezervasyonSistemi\obj\Debug\OtelRezervasyonSistemi.csproj.CoreCompileInputs.cache
+C:\Users\alkaplan\Desktop\şeyma\OtelRezervasyonSistemi\OtelRezervasyonSistemi\obj\Debug\OtelRezervasyonSistemi.exe
+C:\Users\alkaplan\Desktop\şeyma\OtelRezervasyonSistemi\OtelRezervasyonSistemi\obj\Debug\OtelRezervasyonSistemi.pdb
+C:\Users\alkaplan\Desktop\şeyma\OtelRezervasyonSistemi\OtelRezervasyonSistemi\bin\Debug\OtelRezervasyonSistemi.exe.config
+C:\Users\alkaplan\Desktop\şeyma\OtelRezervasyonSistemi\OtelRezervasyonSistemi\bin\Debug\OtelRezervasyonSistemi.exe
+C:\Users\alkaplan\Desktop\şeyma\OtelRezervasyonSistemi\OtelRezervasyonSistemi\bin\Debug\OtelRezervasyonSistemi.pdb
+C:\Users\hp\OneDrive\Masaüstü\VeriYapılarıProje\bitiş\OtelRezervasyonSistemi\OtelRezervasyonSistemi\bin\Debug\OtelRezervasyonSistemi.exe.config
+C:\Users\hp\OneDrive\Masaüstü\VeriYapılarıProje\bitiş\OtelRezervasyonSistemi\OtelRezervasyonSistemi\bin\Debug\OtelRezervasyonSistemi.exe
+C:\Users\hp\OneDrive\Masaüstü\VeriYapılarıProje\bitiş\OtelRezervasyonSistemi\OtelRezervasyonSistemi\bin\Debug\OtelRezervasyonSistemi.pdb
+C:\Users\hp\OneDrive\Masaüstü\VeriYapılarıProje\bitiş\OtelRezervasyonSistemi\OtelRezervasyonSistemi\obj\Debug\OtelRezervasyonSistemi.csprojAssemblyReference.cache
+C:\Users\hp\OneDrive\Masaüstü\VeriYapılarıProje\bitiş\OtelRezervasyonSistemi\OtelRezervasyonSistemi\obj\Debug\OtelRezervasyonSistemi.Formlar.frmAnaGiris.resources
+C:\Users\hp\OneDrive\Masaüstü\VeriYapılarıProje\bitiş\OtelRezervasyonSistemi\OtelRezervasyonSistemi\obj\Debug\OtelRezervasyonSistemi.Formlar.frmOtelIslemleri.resources
+C:\Users\hp\OneDrive\Masaüstü\VeriYapılarıProje\bitiş\OtelRezervasyonSistemi\OtelRezervasyonSistemi\obj\Debug\OtelRezervasyonSistemi.Properties.Resources.resources
+C:\Users\hp\OneDrive\Masaüstü\VeriYapılarıProje\bitiş\OtelRezervasyonSistemi\OtelRezervasyonSistemi\obj\Debug\OtelRezervasyonSistemi.csproj.GenerateResource.cache
+C:\Users\hp\OneDrive\Masaüstü\VeriYapılarıProje\bitiş\OtelRezervasyonSistemi\OtelRezervasyonSistemi\obj\Debug\OtelRezervasyonSistemi.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Masaüstü\VeriYapılarıProje\bitiş\OtelRezervasyonSistemi\OtelRezervasyonSistemi\obj\Debug\OtelRezervasyonSistemi.exe
+C:\Users\hp\OneDrive\Masaüstü\VeriYapılarıProje\bitiş\OtelRezervasyonSistemi\OtelRezervasyonSistemi\obj\Debug\OtelRezervasyonSistemi.pdb
+C:\Users\filiz\Desktop\OtelRezervasyonSistemi\OtelRezervasyonSistemi\obj\Debug\OtelRezervasyonSistemi.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Masaüstü\VeriYapılarıProje\Proje\OtelRezervasyonSistemi\OtelRezervasyonSistemi\bin\Debug\OtelRezervasyonSistemi.exe.config
+C:\Users\hp\OneDrive\Masaüstü\VeriYapılarıProje\Proje\OtelRezervasyonSistemi\OtelRezervasyonSistemi\bin\Debug\OtelRezervasyonSistemi.exe
+C:\Users\hp\OneDrive\Masaüstü\VeriYapılarıProje\Proje\OtelRezervasyonSistemi\OtelRezervasyonSistemi\bin\Debug\OtelRezervasyonSistemi.pdb
+C:\Users\hp\OneDrive\Masaüstü\VeriYapılarıProje\Proje\OtelRezervasyonSistemi\OtelRezervasyonSistemi\obj\Debug\OtelRezervasyonSistemi.csprojAssemblyReference.cache
+C:\Users\hp\OneDrive\Masaüstü\VeriYapılarıProje\Proje\OtelRezervasyonSistemi\OtelRezervasyonSistemi\obj\Debug\OtelRezervasyonSistemi.Formlar.frmAnaGiris.resources
+C:\Users\hp\OneDrive\Masaüstü\VeriYapılarıProje\Proje\OtelRezervasyonSistemi\OtelRezervasyonSistemi\obj\Debug\OtelRezervasyonSistemi.Formlar.frmOtelIslemleri.resources
+C:\Users\hp\OneDrive\Masaüstü\VeriYapılarıProje\Proje\OtelRezervasyonSistemi\OtelRezervasyonSistemi\obj\Debug\OtelRezervasyonSistemi.Properties.Resources.resources
+C:\Users\hp\OneDrive\Masaüstü\VeriYapılarıProje\Proje\OtelRezervasyonSistemi\OtelRezervasyonSistemi\obj\Debug\OtelRezervasyonSistemi.csproj.GenerateResource.cache
+C:\Users\hp\OneDrive\Masaüstü\VeriYapılarıProje\Proje\OtelRezervasyonSistemi\OtelRezervasyonSistemi\obj\Debug\OtelRezervasyonSistemi.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Masaüstü\VeriYapılarıProje\Proje\OtelRezervasyonSistemi\OtelRezervasyonSistemi\obj\Debug\OtelRezervasyonSistemi.exe
+C:\Users\hp\OneDrive\Masaüstü\VeriYapılarıProje\Proje\OtelRezervasyonSistemi\OtelRezervasyonSistemi\obj\Debug\OtelRezervasyonSistemi.pdb
